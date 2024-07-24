@@ -1,5 +1,20 @@
 # Changelog
 
+## [10.2.0](https://github.com/LuanRT/YouTube.js/compare/v10.1.0...v10.2.0) (2024-07-24)
+
+
+### Features
+
+* **Format:** Add `is_secondary` for detecting secondary audio tracks ([#697](https://github.com/LuanRT/YouTube.js/issues/697)) ([a352dde](https://github.com/LuanRT/YouTube.js/commit/a352ddeb9db001e99f49025048ad0942d84f1b3e))
+* **parser:** add classdata to unhandled parse errors ([#691](https://github.com/LuanRT/YouTube.js/issues/691)) ([090539b](https://github.com/LuanRT/YouTube.js/commit/090539b28f9bc3387d01e37325ba5741b33b1765))
+* **proto:** Add `comment_id` to commentSectionParams ([#693](https://github.com/LuanRT/YouTube.js/issues/693)) ([a5f6209](https://github.com/LuanRT/YouTube.js/commit/a5f62093a18705fc822abd86beaa81788b6535ce))
+
+
+### Bug Fixes
+
+* **parser:** ignore MiniGameCardView node ([#692](https://github.com/LuanRT/YouTube.js/issues/692)) ([6d0bc89](https://github.com/LuanRT/YouTube.js/commit/6d0bc89be18f27a8ce74517f5cab5020d6790328))
+* **parser:** ThumbnailView background color ([#686](https://github.com/LuanRT/YouTube.js/issues/686)) ([0f8f92a](https://github.com/LuanRT/YouTube.js/commit/0f8f92a28a5b6143e890626b22ce570730a0cf09))
+
 ## [10.1.0](https://github.com/LuanRT/YouTube.js/compare/v10.0.0...v10.1.0) (2024-07-10)
 
 
